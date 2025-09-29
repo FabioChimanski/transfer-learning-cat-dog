@@ -25,8 +25,7 @@ O objetivo é provar a capacidade de trabalhar com **Modelos de Visão Computaci
 
 -----------------------------------------------------------------------------------------------------------------------
 
-##  Como Rodar o Projeto
-1.  Clone o repositório.
-2.  Instale as dependências listadas no arquivo `requirements.txt`.
-3.  Obtenha o conjunto de dados (Imagens de Cães e Gatos, geralmente organizadas em pastas `train/cat` e `train/dog`).
-4.  Abra e execute o `Transfer_Learning_Cats_Dogs.ipynb` em um ambiente como Google Colab (preferencialmente usando GPU).
+# Codigo disponivel no colab, usando o link abaixo
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gcCoEnJQhQCS4n9YAPwr--Gqx1F8bOh4?usp=sharing)
+
