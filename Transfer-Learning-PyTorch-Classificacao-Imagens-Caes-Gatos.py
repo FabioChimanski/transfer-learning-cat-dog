@@ -76,7 +76,7 @@ with zipfile.ZipFile(zip_path, 'r') as zip_ref:
 
 # Verificar estrutura
 for root, dirs, files in os.walk(extract_path):
-    print(f'📁 {root} - {len(files)} arquivos')
+    print(f' {root} - {len(files)} arquivos')
 
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
