@@ -9,7 +9,7 @@ O objetivo é provar a capacidade de trabalhar com **Modelos de Visão Computaci
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## 🛠️ Tecnologias e Métodos
+##  Tecnologias e Métodos
 * **Framework:** PyTorch
 * **Modelo Base:** ResNet18 (pré-treinada no ImageNet)
 * **Método:** **Transfer Learning (Fine-Tuning)** 
